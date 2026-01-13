@@ -17,5 +17,3 @@ def main():
 
 if name == "__main__":
     main()
-        self.rsi_period = env_int("RSI_PERIOD", 14)
-
